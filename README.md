@@ -1,2 +1,2 @@
 # Whiper
-Our first Unity game.
+Our first Unity game in game jam.
